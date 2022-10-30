@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "WTelegramClientTestWF.sln",
+    "projects": [
+      "WTelegramClientTestWF.csproj"
+    ]
+  }
+}
